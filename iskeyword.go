@@ -102,9 +102,9 @@ var Keywords = map[string]map[string]bool{
 }
 
 // IsKeyword checks if a word is a keyword of the given language.
-func IsKeyword(word string, lang string) bool {
-	lowWord := strings.ToLower(word)
+func IsKeyword(lang string, word string) bool {
 	lowLang := strings.ToLower(lang)
+	lowWord := strings.ToLower(word)
 	if Keywords[lowLang][lowWord] {
 		return true
 	}
