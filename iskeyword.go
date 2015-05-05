@@ -1,14 +1,6 @@
 package abbr
 
-import (
-	"bufio"
-	"flag"
-	"fmt"
-	"log"
-	"os"
-	"regexp"
-	"strings"
-)
+import "strings"
 
 var Keywords = map[string]map[string]bool{
 	"go": {
@@ -113,7 +105,7 @@ var Keywords = map[string]map[string]bool{
 func IsKeyword(word string, lang string) bool {
 	lowWord := strings.ToLower(word)
 	lowLang := strings.ToLower(lang)
-	if keywords[lowLang][lowWord] {
+	if Keywords[lowLang][lowWord] {
 		return true
 	}
 	return false
