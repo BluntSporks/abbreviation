@@ -17,6 +17,7 @@ Ready to use
 * A short name should be half as long as the original word or less, or just use the long form.
 * All of the letters in the short form should be present in the long form and in the same order.
 * Short should not be whole words that mean something else, for example, fact for factorial.
+* Short names should not just consist of the prefix of a word, for example, sym for symbol or syl for syllable.
 * Short names can be differentiated by ending, for example, fac and facl.
 * Acronyms are OK as short names, but the acronym should already be well known. They are not listed here.
 * Short names should be compatible with the Google Go language. They should be ideally already used in Go code.
@@ -27,8 +28,7 @@ Ready to use
 ## List
 * abbrev = abbreviate, abbreviation
 * abs = absolute
-* acc = accuracy, accurate
-* acct = account
+* acc = accuracy, accurate, account
 * accum = accumulate, accumulation, accumulator
 * act = actual
 * addr = address
@@ -44,8 +44,7 @@ Ready to use
 * asc = ascending
 * attr = attribute
 * avg = average
-* bin = binary
-* binom = binomial
+* bin = binary, binomial
 * bool = boolean
 * buf = buffer
 * cal = calendar
@@ -244,6 +243,7 @@ Ready to use
 * sep = separate, separation, separator
 * seq = sequence
 * sig = signal, signature
+* sim = simulate, simulation
 * sin = sine
 * sock = socket
 * spec = specify, specification, specific
@@ -251,8 +251,7 @@ Ready to use
 * struct = structure
 * sub = subtract
 * surf = surface
-* syl = syllable
-* sym = symbol
+* syll = syllable
 * symm = symmetry
 * sync = synchronized
 * sys = system
