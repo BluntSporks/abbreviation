@@ -79,6 +79,7 @@ Ready to use
 * delim = delimiter
 * den = denominate, denomination, denominator
 * dep = depend, dependent
+* dept = department
 * des = descendant
 * desc = descending, describe, description
 * dest = destine, destination
@@ -128,7 +129,6 @@ Ready to use
 * horiz = horizontal
 * ident = identification, identifier
 * imag = imaginary
-* img = image
 * imm = immediate
 * imp = implement, implementation
 * in = input
@@ -144,9 +144,7 @@ Ready to use
 * int = integer, internal
 * intc = intercept
 * intf = interface
-* intx = intersection
 * inv = inverse
-* io = input/output
 * iter = iterate, iteration, iterator
 * kurt = kurtosis
 * lang = language
@@ -159,7 +157,6 @@ Ready to use
 * loc = locate, location
 * log = logarithm
 * low = lowercase
-* mach = machine
 * mant = mantissa
 * max = maximum
 * med = medium, median
@@ -170,7 +167,6 @@ Ready to use
 * multi = multiple
 * mut = mutate, mutation, mutable
 * mutex = mutual exclusion
-* mutl = mutual
 * nat = natural
 * neg = negate, negation, negative
 * net = network
@@ -185,7 +181,6 @@ Ready to use
 * par = parent
 * para = paragraph
 * param = parameter
-* parl = parallel
 * pat = pattern
 * perf = perform, performance
 * perim = perimeter
@@ -215,7 +210,6 @@ Ready to use
 * quad = quadratic
 * quot = quotient
 * rand = random
-* rat = ratio, rational
 * rec = recursive, record
 * rect = rectangle
 * recv = receive
@@ -250,7 +244,6 @@ Ready to use
 * stat = statistic
 * struct = structure
 * sub = subtract
-* surf = surface
 * syll = syllable
 * symm = symmetry
 * sync = synchronized
@@ -274,7 +267,6 @@ Ready to use
 * win = window
 * xfer = transfer
 * xlat = translate, translation
-* xmis = transmission
 * xmit = transmit
 * xor = exclusive or
 
@@ -306,7 +298,6 @@ middle of words due to their lack of vowels.
 * stm = statement
 * str = string
 * tbl = table
-* tmp = temporary
 
 ## Not abbreviated
 Here is a list of words that I do not abbreviate, even though some of them already have common abbreviations like line.
