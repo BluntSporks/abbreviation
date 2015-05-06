@@ -315,7 +315,6 @@ var Names = map[string]string{
 	"tabl":                 "tbl",
 	"tangent":              "tan",
 	"technolog":            "tech",
-	"templat":              "temp",
 	"temporar":             "temp",
 	"terminal":             "term",
 	"terminat":             "term",

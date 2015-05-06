@@ -250,7 +250,7 @@ Ready to use
 * sys = system
 * tan = tangent
 * tech = technology
-* temp = template, temporary
+* temp = temporary
 * term = terminate, termination, terminal
 * tok = token, tokenize, tokenization
 * trig = trigonometry
