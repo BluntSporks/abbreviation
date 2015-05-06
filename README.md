@@ -22,6 +22,7 @@ Ready to use
 * Acronyms are OK as short names, but the acronym should already be well known. They are not listed here.
 * Short names should be compatible with the Google Go language. They should be ideally already used in Go code.
 * You can add s to a short name to form the plural, as long as it doesn't end in s, but do not add d to form past tense.
+* Short names should not split up plosive/liquid combinations, for example, the p and r in representative.
 * Short names should be verified at [AllAcronyms.com](http://www.allacronyms.com/), unless it conflicts with above.
 * There are a few exceptions to the above rules for common, well-established forms.
 
@@ -130,8 +131,7 @@ Ready to use
 * ident = identification, identifier
 * imag = imaginary
 * imm = immediate
-* imp = implement, implementation
-* in = input
+* impl = implement, implementation
 * inc = increment
 * incl = include, inclusion
 * ind = indirect, indicate, indication
@@ -176,7 +176,6 @@ Ready to use
 * op = operate, operation, operator
 * opt = option
 * orig = original, originate, origination
-* out = output
 * ovfl = overflow
 * par = parent
 * para = paragraph
@@ -218,9 +217,10 @@ Ready to use
 * regexp = regular expression
 * rel = relate, relation, relative
 * rem = remainder
-* rep = represent, representation, representative, repeat, repetition
+* rep = repeat, repetition
 * repl = replace, replacement
 * repo = repository
+* repr = represent, representation, representative
 * req = require, requirement
 * res = resource, result
 * resp = respond, response, responsive
