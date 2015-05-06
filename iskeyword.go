@@ -1,7 +1,5 @@
 package abbr
 
-import "strings"
-
 var Keywords = map[string]map[string]bool{
 	"go": {
 		"break":       true,
