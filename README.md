@@ -26,7 +26,7 @@ Ready to use
 * Abbreviations should be at least three letters long.
 
 ### Meaning
-* Abbreviations should not be whole words that mean something else, for example, fact for factorial.
+* Abbreviations should not be whole words that mean something else.
 * Abbreviations should not just consist of the prefix of a word, for example, sym for symbol or syl for syllable.
 
 ### Interpretation
@@ -49,6 +49,7 @@ Ready to use
 There are a few exceptions to the above rules for common, well-established forms.
 * ct and pt can be used for ction and ption if the abbreviation would be too short otherwise, for example, act and opt.
 * x can be used for trans even though it is not a letter of the word.
+* Some whole words are OK, such as fact for factorial.
 
 ## List
 * abbrev = abbreviate, abbreviation
@@ -57,7 +58,6 @@ There are a few exceptions to the above rules for common, well-established forms
 * accum = accumulate, accumulation, accumulator
 * act = actual
 * addr = address
-* adn = addend
 * agg = aggregate, aggregation
 * alg = algebra
 * algo = algorithm
@@ -91,8 +91,6 @@ There are a few exceptions to the above rules for common, well-established forms
 * conv = convert, conversion
 * cop = complex
 * corr = correlate, correlation
-* cos = cosine
-* cot = cotangent
 * covar = covariance
 * cur = current
 * dec = decimal, decrement, decode, decrypt
@@ -101,12 +99,12 @@ There are a few exceptions to the above rules for common, well-established forms
 * deg = degree
 * del = delete, deletion
 * delim = delimiter
-* den = denominate, denomination, denominator
+* den = denomination, denominator
 * dep = depend, dependent
 * dept = department
 * des = descendant
 * desc = descending, describe, description
-* dest = destine, destination
+* dest = destination
 * det = determinant
 * dev = deviate, deviation, develop, development
 * diag = diagonal
@@ -125,7 +123,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * empl = employee, employment
 * enc = encode, encrypt
 * ent = entropy
-* enum = enumerate, enumeration, enumerator
+* enum = enumeration
 * env = environment
 * equiv = equivalent, equivalence
 * err = error
@@ -192,7 +190,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * nat = natural
 * neg = negate, negation, negative
 * net = network
-* num = number, numerate, numeration, numerator
+* num = number, numeration, numerator
 * obj = object
 * oct = octal
 * op = operate, operation, operator
@@ -205,7 +203,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * pat = pattern
 * perf = perform, performance
 * perim = perimeter
-* perm = permutate, permutation, permanent
+* perm = permutation, permanent
 * perp = perpendicular
 * phon = phonetic
 * pic = picture
@@ -251,7 +249,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * san = sanitize, sanitization
 * sched = schedule
 * sci = science, scientific
-* sec = second, secondary, secure, security, secant, section
+* sec = second, secondary, secure, security, section
 * seg = segment
 * sel = select, selection
 * sent = sentence
@@ -259,7 +257,6 @@ There are a few exceptions to the above rules for common, well-established forms
 * seq = sequence
 * sig = signal, signature
 * sim = simulate, simulation
-* sin = sine
 * sock = socket
 * spec = specify, specification, specific
 * stat = statistic
@@ -272,7 +269,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * tech = technology
 * temp = temporary
 * term = terminate, termination, terminal
-* tok = token, tokenize, tokenization
+* tok = token, tokenize
 * trig = trigonometry
 * up = uppercase
 * upd = update
@@ -296,7 +293,6 @@ middle of words due to their lack of vowels.
 * cmd = command
 * cmp = compare, comparison
 * cnt = count
-* csc = cosecant
 * ctl = control
 * ctx = context
 * cvt = convert
