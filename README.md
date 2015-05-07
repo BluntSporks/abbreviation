@@ -8,25 +8,47 @@ To list all abbreviations that I use in programs for reference.
 Ready to use
 
 ## Rules
-* Abbreviations shouldn't be ambiguous. However, if the names are different that no confusion can result, they are OK.
-* Abbreviations should have at least one vowel.
-* Abbreviations should usually end in a consonant, unless the vowel is needed for discrimination, for example, alg and algo.
-* Abbreviations should not have more than three consonants in a row.
+### Sound
 * Abbreviations should be pronounceable.
-* Abbreviations should be at least three letters long.
-* A abbreviation should be half as long as the original word or less, or just use the long form.
-* All of the letters in the short form should be present in the long form and in the same order.
-* Abbreviations should not be whole words that mean something else, for example, fact for factorial.
-* Abbreviations should not just consist of the prefix of a word, for example, sym for symbol or syl for syllable.
-* Abbreviations can be differentiated by ending, for example, fac and facl.
-* Acronyms are OK in identifier names, but the acronym should already be well known. They are not listed here.
-* Abbreviations should be compatible with the Google Go language. They should be ideally already used in Go code.
-* You can add s to a short name to form the plural, as long as it doesn't end in s, but do not add d to form past tense.
+* Abbreviations should have at least one vowel.
 * Abbreviations should not split up plosive/liquid combinations, for example, the pr in represent or the tl in template.
 * Abbreviations should split up a plosive/plosive combination, for example, the ct in dictionary or pt in caption,
   especially where the original t is pronounced sh in tion.
-* Abbreviations should be verified at [AllAcronyms.com](http://www.allacronyms.com/), unless it conflicts with above.
-* There are a few exceptions to the above rules for common, well-established forms.
+
+### Spelling
+* Abbreviations should not have more than three consonants in a row.
+* Abbreviations should usually end in a consonant, unless the vowel is needed for discrimination, for example, alg and algo.
+* All of the letters in the abbreviation should be present in the long form and in the same order.
+* The letters of the abbreviation need not appear in sequence in the long form, for example, recv and receive.
+
+### Length
+* A abbreviation should be less than or equal to half the length of the original form.
+* Abbreviations should be at least three letters long.
+
+### Meaning
+* Abbreviations should not be whole words that mean something else, for example, fact for factorial.
+* Abbreviations should not just consist of the prefix of a word, for example, sym for symbol or syl for syllable.
+
+### Interpretation
+* Abbreviations shouldn't be ambiguous. However, if the names are different that no confusion can result, they are OK.
+
+### Origin
+* Abbreviations should be compatible with the Google Go language. They should be ideally already used in Go code.
+* Abbreviations should be used for common words, since it little helps to abbreviate rare words.
+* Abbreviations should be verified at [AllAcronyms.com](http://www.allacronyms.com/) as being in common use.
+* Abbreviations should come from the world of IT, technology, and computers, and already be used there.
+
+### Usage
+* You can add s to an abbreviation to form the plural, as long as it doesn't end in s.
+* You should not add d to form past tense.
+
+### Acronyms
+* Acronyms are OK in identifier names, but the acronym should already be well known. They are not listed here.
+
+### Exceptions
+There are a few exceptions to the above rules for common, well-established forms.
+* ct and pt can be used for ction and ption if the abbreviation would be too short otherwise, for example, act and opt.
+* x can be used for trans even though it is not a letter of the word.
 
 ## List
 * abbrev = abbreviate, abbreviation
@@ -116,8 +138,7 @@ Ready to use
 * exp = exponent, expect
 * expr = express, expression
 * ext = extend, extension, external
-* fac = factor
-* facl = factorial
+* fact = factorial
 * fig = figure
 * float = floating
 * frac = fraction
