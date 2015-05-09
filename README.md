@@ -58,7 +58,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * accum = accumulate, accumulation, accumulator
 * act = actual
 * addr = address
-* agg = aggregate, aggregation
+* aggr = aggregate, aggregation
 * alg = algebra
 * algo = algorithm
 * alloc = allocate, allocation
@@ -67,7 +67,9 @@ There are a few exceptions to the above rules for common, well-established forms
 * arch = architect, architecture
 * arg = argument
 * asc = ascending
+* assoc = associative, associate
 * attr = attribute
+* auth = authenticate, authentication, authorize, authorization
 * avg = average
 * bin = binary, binomial
 * bool = boolean
@@ -92,6 +94,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * cop = complex
 * corr = correlate, correlation
 * covar = covariance
+* crypt = cryptography, cryptology, cryptanalysis, cryptosystem
 * cur = current
 * dec = decimal, decrement, decode, decrypt
 * decl = declare, declaration
@@ -102,8 +105,8 @@ There are a few exceptions to the above rules for common, well-established forms
 * den = denomination, denominator
 * dep = depend, dependent
 * dept = department
-* des = descendant
-* desc = descending, describe, description
+* desc = descendant, descending, describe, description
+* deser = deserialize, deserialization
 * dest = destination
 * det = determinant
 * dev = deviate, deviation, develop, development
@@ -111,6 +114,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * diam = diameter
 * dic = dictionary
 * diff = difference
+* dig = digest
 * dim = dimension
 * dir = directory, directive, direct, direction
 * disc = discriminant
@@ -122,7 +126,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * elem = element
 * empl = employee, employment
 * enc = encode, encrypt
-* ent = entropy
+* ent = entropy, entity
 * enum = enumeration
 * env = environment
 * equiv = equivalent, equivalence
@@ -143,6 +147,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * freq = frequent, frequency
 * func = function
 * gen = generate, generation, generator, general, generic
+* geo = geography, geographic
 * geom = geometric
 * guar = guarantee
 * har = harmonic
@@ -174,7 +179,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * lim = limit, limitation
 * lin = linear
 * lit = literal
-* loc = locate, location
+* loc = locate, location, locale
 * log = logarithm
 * low = lowercase
 * mant = mantissa
@@ -197,6 +202,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * opt = option
 * orig = original, originate, origination
 * ovfl = overflow
+* pal = palette
 * par = parent
 * para = paragraph
 * param = parameter
@@ -210,6 +216,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * pos = positive, position
 * poss = possible, possibly
 * prec = precise, precision
+* pref = prefer, preference
 * prep = prepare, preparation
 * prev = previous
 * pri = private, primary
@@ -228,6 +235,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * punc = punctuate, punctuation
 * quad = quadratic
 * quot = quotient
+* rad = radian, radius, radical
 * rand = random
 * rec = recursive, record
 * rect = rectangle
@@ -236,13 +244,14 @@ There are a few exceptions to the above rules for common, well-established forms
 * reg = register, regular
 * regexp = regular expression
 * rel = relate, relation, relative
-* rem = remainder
+* rem = remainder, remove
+* ren = rename
 * rep = repeat, repetition
 * repl = replace, replacement
 * repo = repository
 * repr = represent, representation, representative
 * req = require, requirement
-* res = resource, result
+* res = resource, result, resolve, resolution
 * resp = respond, response, responsive
 * ret = return
 * rev = reverse
@@ -252,9 +261,11 @@ There are a few exceptions to the above rules for common, well-established forms
 * sec = second, secondary, secure, security, section
 * seg = segment
 * sel = select, selection
+* sem = semaphore
 * sent = sentence
 * sep = separate, separation, separator
 * seq = sequence
+* ser = serial, serialize, serialization, series
 * sig = signal, signature
 * sim = simulate, simulation
 * sock = socket
@@ -269,6 +280,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * tech = technology
 * temp = temporary
 * term = terminate, termination, terminal
+* thru = through
 * tok = token, tokenize
 * trig = trigonometry
 * up = uppercase
@@ -286,6 +298,8 @@ There are a few exceptions to the above rules for common, well-established forms
 * xlat = translate, translation
 * xmit = transmit
 * xor = exclusive or
+* xpar = transparent, transparency
+* xpos = transpose, transposition
 
 ## Not in combination
 These are OK to use as whole words, or at the beginning or end of a camelcased word, but try not to use them in the
