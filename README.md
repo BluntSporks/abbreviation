@@ -62,7 +62,9 @@ There are a few exceptions to the above rules for common, well-established forms
 * alg = algebra
 * algo = algorithm
 * alloc = allocate, allocation
+* amp = ampersand
 * anc = ancestor
+* apos = apostrophe
 * approx = approximate, approximation
 * arch = architect, architecture
 * arg = argument
@@ -135,13 +137,14 @@ There are a few exceptions to the above rules for common, well-established forms
 * esc = escape
 * est = estimate, estimation
 * eval = evaluate, evaluation
-* excl = exclude, exclusion
+* excl = exclude, exclusion, exclamation
 * excp = except, exception
 * exec = execute, execution
 * exp = exponent, expect
 * expr = express, expression
 * ext = extend, extension, external
 * fact = factorial
+* fem = feminine
 * fig = figure
 * float = floating
 * frac = fraction
@@ -184,6 +187,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * log = logarithm
 * low = lowercase
 * mant = mantissa
+* masc = masculine
 * max = maximum
 * med = medium, median
 * mem = memory
@@ -269,6 +273,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * ser = serial, serialize, serialization, series
 * sig = signal, signature
 * sim = simulate, simulation
+* sing = singular
 * sock = socket
 * spec = specify, specification, specific
 * stat = statistic
