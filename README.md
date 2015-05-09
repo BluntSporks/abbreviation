@@ -72,6 +72,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * auth = authenticate, authentication, authorize, authorization
 * avg = average
 * bin = binary, binomial
+* biz = business
 * bool = boolean
 * buf = buffer
 * cal = calendar
@@ -110,7 +111,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * dest = destination
 * det = determinant
 * dev = deviate, deviation, develop, development
-* diag = diagonal
+* diag = diagonal, diagnosis, diagnostic
 * diam = diameter
 * dic = dictionary
 * diff = difference
