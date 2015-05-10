@@ -44,6 +44,10 @@ Ready to use
 
 ### Acronyms
 * Acronyms are OK in identifier names, but the acronym should already be well known. They are not listed here.
+* Acronyms should be in consistent case, all-lower or all-upper, as recommended in
+  [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments). I prefer all caps for all acronyms,
+  for example, ServeHTTP or HTTPServer.
+* Do not run acronyms together, for example, SQLID or FTPHTTP, since it is hard to read.
 
 ### Exceptions
 There are a few exceptions to the above rules for common, well-established forms.
