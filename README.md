@@ -48,6 +48,7 @@ Ready to use
   [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments). I prefer all caps for all acronyms,
   for example, ServeHTTP or HTTPServer.
 * Do not run acronyms together, for example, SQLID or FTPHTTP, since it is hard to read.
+* Acronyms should be at least three letters long.
 
 ### Exceptions
 There are a few exceptions to the above rules for common, well-established forms.
