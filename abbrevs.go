@@ -106,8 +106,6 @@ var Abbrevs = map[string]string{
 	"employ":               "empl",
 	"encod":                "enc",
 	"encrypt":              "enc",
-	"entit":                "ent",
-	"entrop":               "ent",
 	"enumerat":             "enum",
 	"environment":          "env",
 	"equivalenc":           "equiv",

@@ -134,7 +134,6 @@ There are a few exceptions to the above rules for common, well-established forms
 * elem = element
 * empl = employee, employment
 * enc = encode, encrypt
-* ent = entropy, entity
 * enum = enumeration
 * env = environment
 * equiv = equivalent, equivalence
