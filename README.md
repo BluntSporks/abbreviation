@@ -39,7 +39,7 @@ Ready to use
 * Abbreviations should come from the world of IT, technology, and computers, and already be used there.
 
 ### Usage
-* You can add s to an abbreviation to form the plural, as long as it doesn't end in s.
+* You can add s to an abbreviation to form the plural, or z if the abbreviation ends in s, for example, ansz = answers.
 * You should not add d to form past tense.
 
 ### Acronyms
