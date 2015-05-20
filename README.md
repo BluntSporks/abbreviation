@@ -69,6 +69,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * alloc = allocate, allocation
 * amp = ampersand
 * anc = ancestor
+* ans = answer
 * apos = apostrophe
 * approx = approximate, approximation
 * arch = architect, architecture
@@ -243,6 +244,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * pub = public
 * punc = punctuate, punctuation
 * quad = quadratic
+* ques = question
 * quot = quotient
 * rad = radian, radius, radical
 * rand = random
