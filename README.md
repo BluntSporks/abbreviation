@@ -38,9 +38,39 @@ Ready to use
 * Abbreviations should be verified at [AllAcronyms.com](http://www.allacronyms.com/) as being in common use.
 * Abbreviations should come from the world of IT, technology, and computers, and already be used there.
 
-### Usage
-* You can add s to an abbreviation to form the plural, or z if the abbreviation ends in s, for example, ansz = answers.
-* You should not add d to form past tense.
+### Endings
+It is possible to use a list of suffix abbreviations to discriminate between different forms of a word if you need to.
+However, it is not necessary to do so in every case, only in cases where you want to discriminate between two different
+forms in the same context, for example, to use a plural form to identify an array and a singular form to identify an
+element of the same array (the ansz array could contain ans elements). Or you might care about the difference between
+emple, emplr, and emplt in the same application or database.
+
+The following list is recommended:
+* b for able
+* c for ence or ance
+* d for ed
+* e for ee
+* g for ing
+* n for tion or sion
+* l for ial
+* r for er or or
+* s for plural of abbreviation not ending in s
+* t for ment
+* v for ive
+* z for plural of abbreviation ending in s
+
+Examples include:
+* emplb = employable
+* distc = distance
+* empld = employed
+* emple = employee
+* emplg = employing
+* authn = authentication or authorization
+* binl = binomial
+* emplr = employer
+* emplrs = employers
+* emplt = employment
+* ansz = answers 
 
 ### Acronyms
 * Acronyms are OK in identifier names, but the acronym should already be well known. They are not listed here.
@@ -55,6 +85,12 @@ There are a few exceptions to the above rules for common, well-established forms
 * ct and pt can be used for ction and ption if the abbreviation would be too short otherwise, for example, act and opt.
 * x can be used for trans even though it is not a letter of the word.
 * Some whole words are OK, such as fact for factorial.
+
+## Limitations
+This style of abbreviation is intended for use in naming classes, functions and variables. However there are other
+types of prefixing, for example the three-letter prefixes used to distinguish field names in the same database table.
+Examples would include cusID for customer ID and ordID for order ID. Those prefixes need not follow the same rules as
+these and are not covered here.
 
 ## List
 * abbrev = abbreviate, abbreviation
@@ -105,6 +141,7 @@ There are a few exceptions to the above rules for common, well-established forms
 * covar = covariance
 * crypt = cryptography, cryptology, cryptanalysis, cryptosystem
 * cur = current
+* cust = customer
 * dec = decimal, decrement, decode, decrypt
 * decl = declare, declaration
 * def = define, definition

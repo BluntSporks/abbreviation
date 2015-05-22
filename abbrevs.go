@@ -64,6 +64,7 @@ var Abbrevs = map[string]string{
 	"count":                "cnt",
 	"crypt":                "crypt",
 	"current":              "cur",
+	"customer":             "cust",
 	"decimal":              "dec",
 	"declar":               "decl",
 	"declaration":          "decl",
